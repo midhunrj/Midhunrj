@@ -1,0 +1,226 @@
+*{
+    font-family:  NotoSerif, Matterhorn, Helvetica, sans-serif;
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    text-decoration: none;
+    font-size: 24px;
+}
+body{
+    background-color: #f8f9fa;
+}
+.menu{
+    width:100%;
+    height:60px;
+    display: flex;
+    font-weight: 600;
+}
+
+ul li{
+    padding:20px;
+    float: left;
+    display:block;
+    font-size: 18px;
+}
+.top-sect{
+    width:100%;
+    overflow: hidden;
+    position:absolute;
+    
+}
+.fades{
+    width:100%;
+    display:flex;
+    animation: slide 15s ease infinite;
+}
+.fades img{
+    width: 100%;
+    height:700px;
+    cursor: pointer;
+    transform:scale(1);
+    border:transparent 1px;
+    box-shadow: none;
+}
+img:hover{
+    transition: .3s ease-in-out;
+    transform: scale(1.1);
+}
+@keyframes slide{
+0%{
+    transform: translateX(0);
+}
+25%{
+    transform:translatex(0);
+}
+30%{
+    transform:translateX(-100%)
+}
+50%{
+    transform:translateX(-100%);
+}
+60%{
+    transform:translateX(-200%);
+}
+75%{
+    transform:translateX(-200%);
+}
+80%{
+    transform: translateX(-200%);
+}
+100%{
+    transform: translateX(-200%);
+}
+
+}
+.shop{
+    display:flex;
+    width:100%;
+    top:30em;
+    position: relative;
+    overflow: hidden;
+}
+.shop img{
+    height:400px;
+    width:100%;
+}
+#brand{
+    flex-basis: 25%;
+    border:10px solid transparent;
+    box-shadow: none;
+    cursor: pointer;
+    justify-content: space-evenly;
+}
+#mark{
+    position: relative;
+    font-size: 18px;
+    font-weight: bolder;
+    color: black;
+    top:30em;
+}
+.middle-sect{
+    display: block;
+    overflow: hidden;
+    top:30em;
+    width:100%;
+    position: relative;
+    background-color:#eee;
+    
+}
+.fun{
+    display: block;
+    float:left;
+    flex-direction: row;
+    padding:40px;
+    border:5px solid transparent;
+
+}
+.fun img{
+    width:600px;
+    height: 400px;
+}
+
+.cap{
+    margin-left: 50px;
+    margin-top: 40px;
+}
+p{
+    font-size: 14px;
+}
+a{
+    font-size: 14px;
+    color:black;
+    text-decoration-style: dashed;
+}
+.gem{
+   width: 100%;
+   display: block;
+   top:42em;
+   background-color: #eee;
+   overflow: hidden;
+}
+.kjo {
+    margin-left: 50px;
+}
+.gem img{
+    width:400px;
+    height: 400px;
+}
+#trav{
+    float:left;
+    display: block;
+    flex-direction: row;
+    padding:40px;
+}
+.mickey{
+    width:100%;
+    height:800px;
+    display:flex;
+    top:60em;
+    background-color: #eee;
+    overflow: hidden;
+}
+.mickey a{
+    font-weight: bold;
+}
+.klo{
+    margin-left: 50px;
+    float:left;
+    display: flex;
+}
+.mickey img{
+    width:600px;
+    height: 500px;
+}
+#meow{
+    flex-basis: 50%;
+    padding:50px;
+}
+.footer-sect{
+    background-color: white;
+    width:100%;
+    height:500px;
+    overflow:hidden;
+}
+.footer-menu{
+    width:100%;
+    padding: 50px;
+    float: left;
+    display: block;
+    margin-top: 50px;
+    cursor: pointer;
+}
+.footer-logo{
+    float:left;
+    display: block;
+    margin-left: 32em;
+}
+.log{
+    text-align: center;
+    padding: 20px;
+}
+.log img{
+    width: 80px;
+    height:80px;
+}
+.foot-notes{
+    width:100%;
+    color:gray;
+}
+.foot-notes ul li{
+  font-size: 14px;
+  cursor: pointer;
+  padding: 10px;
+}
+.foot-notes ul li:hover{
+    color: blue;
+}
+#captions{
+    width:100%;
+    float: left;
+    display: block;
+    padding-top: 10px;
+    text-align: center;
+    font-size: 14px;
+    color:grey;
+}
+
