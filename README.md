@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+---
 ### Technical Skills
 Here’s a snapshot of the tools and technologies I work with:
 
@@ -33,6 +33,22 @@ Here’s a snapshot of the tools and technologies I work with:
 - **Databases**: MongoDB
 - **Other Tools**: Git, Postman
 - **Deployment Platforms**: Aws,Vercel, Render
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square) 
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?logo=typescript&logoColor=white&style=flat-square) 
+  ![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat-square) 
+  ![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat-square)
+ ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat-square) 
+  ![Redux](https://img.shields.io/badge/-Redux-764ABC?logo=redux&logoColor=white&style=flat-square) 
+  ![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white&style=flat-square)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat-square) 
+  ![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white&style=flat-square)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat-square)
+![SQL](https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg)
+ ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat-square) 
+  ![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white&style=flat-square)
+  ![Vercel](https://img.shields.io/badge/-Vercel-000000?logo=vercel&logoColor=white&style=flat-square) 
+  ![Render](https://img.shields.io/badge/-Render-46E3B7?logo=render&logoColor=white&style=flat-square)
 
 
 ---
@@ -53,10 +69,11 @@ Technologies: Node.js, Express.js, MongoDB, HTML, CSS, JavaScript.
 Key Features: [product catalog, shopping cart, user accounts, order management, etc.]
 GitHub Link: [https://github.com/midhunrj/ecommerce]
 
+---
 ### Looking Ahead 
 I am eager to bring my skills, creativity, and passion for development to a forward-thinking company where I can contribute meaningfully while honing my expertise. I am committed to continuous learning, staying updated with the latest trends, and working collaboratively to create impactful solutions.
 
----
+
 
 ### Connect With Me
 Let’s connect and discuss opportunities or projects you have in mind!
@@ -64,3 +81,4 @@ Let’s connect and discuss opportunities or projects you have in mind!
 - 📧 **Email**: [midhunrj18852@gmail.com](mailto:midhunrj18852@gmail.com)  
 - 💼 **LinkedIn**: [linkedin.com/in/midhun-raj-06863b218](https://www.linkedin.com/in/midhun-raj-06863b218)
 
+---
