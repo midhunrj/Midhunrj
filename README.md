@@ -60,14 +60,14 @@ Here’s a snapshot of the tools and technologies I work with:
  A movie ticket booking platform built using the MERN stack (MongoDB, Express.js, React, Node.js) with TypeScript implemented in both the front-end and back-end. The back-end utilizes a clean architecture for maintainability,testablilty and scalability,by ensuring a clear seperation of concerns.Hosted the backend on aws cloud and frontend in vercel ensuring scalability,reliability and high performance.
 **Technologies**: TypeScript, Node.js, Express.js, MongoDB, React, HTML, CSS, JavaScript.
 **Key Features**: [jwt user authentication, secure payment gateway integration, real-time seat booking,rating movies,customised seat allocation for theatres and even marking seats for offline bookings,notifications for user like reminder,cancellation,booking and etc ensuring a user-centric experience]
-**GitHub Link**: [https://github.com/midhunrj/Movie-Flex]
+**GitHub Link**: [Movie-Flex](https://github.com/midhunrj/Movie-Flex)
 
  ### 🛒  **Tech-Tique (E-commerce Application)**
  
   An e-commerce web application with a Node.js/Express.js and MongoDB back-end and an HTML, CSS, and JavaScript front-end.The backend follows a MVC Architecture, ensuring a clear separation of concerns and a maintainable structure.
 **Technologies**: Node.js, Express.js, MongoDB, HTML, CSS, JavaScript.
 **Key Features**: [product catalog, shopping cart, user accounts, order management, etc.]
-**GitHub Link**: [https://github.com/midhunrj/ecommerce]
+**GitHub Link**: [Tech-Tique](https://github.com/midhunrj/ecommerce)
 
 ---
 ### Looking Ahead 
@@ -78,7 +78,7 @@ I am eager to bring my skills, creativity, and passion for development to a forw
 ### Connect With Me
 Let’s connect and discuss opportunities or projects you have in mind!
 
-- 📧 **Email**: [midhunrj18852@gmail.com](mailto:midhunrj18852@gmail.com)  
-- 💼 **LinkedIn**: [linkedin.com/in/midhun-raj-06863b218](https://www.linkedin.com/in/midhun-raj-06863b218)
+- 📧 **[Email](mailto:midhunrj18852@gmail.com)**  
+- 💼 **[LinkedIn](https://www.linkedin.com/in/midhun-raj-06863b218)**
 
 ---
